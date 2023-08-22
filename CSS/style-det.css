@@ -1,0 +1,44 @@
+@charset "UTF-8";
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10pt;
+    color: deeppink;
+
+}
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+
+
+}
+
+article h1 {
+    font-size: 15pt;
+    color: white;
+    background-color: deeppink;
+    padding: 5px;
+    margin: 0px;
+}
+
+article {
+    margin-bottom: 800px;
+}
+
+img.img-dir {
+    margin-left: 10px;
+}
+.div-rostinho {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.div-patinhas{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+
+}
+.div-rabinho{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+
+}
